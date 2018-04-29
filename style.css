@@ -1,0 +1,23 @@
+/*
+Theme Name: HTML Theme Bootstrap
+Theme URI: https://github.com/astahub/html-theme-bootstrap
+Author: harisrozak
+Author URI: https://github.com/harisrozak
+Description: Simple base HTML for WordPress theme development
+Text Domain: themebootstrap
+---------------------------
+Sources: 
+- https://startbootstrap.com/template-overviews/blog-home, 
+- https://startbootstrap.com/template-overviews/blog-post
+
+*/
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
